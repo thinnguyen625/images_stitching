@@ -2,10 +2,10 @@
 # python image_stitching.py --images images/scottsdale --output output.png --crop 1
 
 # import the necessary packages
-#from imutils import paths
-#import numpy as np
+from imutils import paths
+import numpy as np
 import argparse
-#import imutils
+import imutils
 import cv2
 
 # construct the argument parser and parse the arguments
