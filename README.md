@@ -3,6 +3,7 @@
 
 Tutorial:
 https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+
 Run guide: 
 https://www.youtube.com/watch?v=MEs-iYIhhCc
 
