@@ -1,5 +1,6 @@
 # images_stitching
-Đồ án cuối kì môn xử lý ảnh số và video số
+Đồ án cuối kì môn xử lý ảnh số và video số:
+
 Tutorial:
 https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
 Run guide: 
