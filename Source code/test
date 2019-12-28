@@ -1,1 +1,0 @@
-python image_stitching.py --images images/testcase1 --output output.png
