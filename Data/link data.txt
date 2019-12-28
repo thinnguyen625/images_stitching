@@ -1,0 +1,2 @@
+https://github.com/SSARCandy/panoramas-image-stitching/tree/master/input_image
+https://github.com/opencv/opencv_extra/tree/master/testdata/stitching
